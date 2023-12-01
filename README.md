@@ -24,11 +24,11 @@ Feel free to reach out if you spot something super incorrect. I want to learn an
 
 ## Future Dev
 
-Find a completely different API I actually care about. Something interesting.
+Find a completely different API that I care about. Something interesting.
 
 ## Resources
 
-Shoutout to the recorded videos because it was all starter code. They also simply give us the Solution File, so.. shoutout to the Solution File as well, I suppose
+Shoutout to the recorded videos because it was all starter code. They also simply give us the Solution File, so.. shoutout to the Solution File as well
 
 ## License
 

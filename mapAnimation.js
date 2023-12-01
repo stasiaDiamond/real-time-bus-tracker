@@ -60,7 +60,7 @@ let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/streets-v11',
   center: [-71.104081, 42.365554],
-  zoom: 14,
+  zoom: 12,
 });
 
 // TODO: add a marker to the map
@@ -77,7 +77,7 @@ function move() {
     marker.setLngLat(busStops[counter]);
     counter++;
     move();
-  }, 10000);
+  }, 800);
 }
 
 // Do not edit code past this point
