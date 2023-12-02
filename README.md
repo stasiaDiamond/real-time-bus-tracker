@@ -1,12 +1,20 @@
 # Real Time Bus Tracker
 
-Tracks a bus route between MIT and Harvard. We were tasked to make some changes, and as suggested, I changed some styles around from what was given in the starter code.
+## Description
+
+API tracks a bus route between MIT and Harvard. We were tasked to make some changes, and as suggested, I changed some styles around from what was given in the starter code.
 
 ## How to Run
 
-Clone the repo. Click the button.
+Clone the repo. Open Live Browser from VS Code. Click the button.
 
-## Disclaimer/How it Works
+## Roadmap of Future Improvements
+
+- Find a completely different API that I care about. Something interesting.
+
+- Although I do not plan on improving this assignment.
+
+## Disclaimer/Comments
 
 Any comment prefaced by an asterisk (*) are notes I have added and not part of the curriculum
 
@@ -22,14 +30,10 @@ I'm glad I have the time and enough previous coding knowledge to break down each
 
 Feel free to reach out if you spot something super incorrect. I want to learn and grow
 
-## Future Dev
-
-Find a completely different API that I care about. Something interesting.
-
 ## Resources
 
 Shoutout to the recorded videos because it was all starter code. They also simply give us the Solution File, so.. shoutout to the Solution File as well
 
-## License
+## License Information
 
 See MIT License
