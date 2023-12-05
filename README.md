@@ -6,23 +6,19 @@ API tracks a bus route between MIT and Harvard. We were tasked to make some chan
 
 ## How to Run
 
-Clone the repo. Open Live Browser from VS Code. Click the button.
+Clone the repo. Open Live Browser from VS Code. Click the button, enjoy!
 
 ## Roadmap of Future Improvements
 
-- Find a completely different API that I care about. Something interesting.
+- Find a fun API! Researching different APIs, its been fun discovering what people are keeping track of online
 
-- Although I do not plan on improving this assignment.
-
-## Disclaimer/Comments
+## Comments
 
 Any comment prefaced by an asterisk (*) are notes I have added and not part of the curriculum
 
-I don't know everything. I'm new to coding.
 It helps me in the moment and also when coming back later to write detailed comments.
 
-I'm taking this to the next level in this bootcamp so that I can attempt to make more sense of a vague and ambiguous curriculum.
-It's hard to learn coding without vocabulary or lists of covered material
+I'm taking this to the next level in this bootcamp so that I can attempt to make more sense of a whole lot of new information. I guess this is kinda like my own kind of flashcards. Very cool!
 
 I'm adding some vocab here to supplement the lack of resources given in the MITxPro Emeritus Codio assignment.
 
@@ -32,7 +28,7 @@ Feel free to reach out if you spot something super incorrect. I want to learn an
 
 ## Resources
 
-Shoutout to the recorded videos because it was all starter code. They also simply give us the Solution File, so.. shoutout to the Solution File as well
+Shoutout to the recorded videos, Solution File, and ChatGPT
 
 ## License Information
 
