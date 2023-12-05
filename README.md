@@ -12,7 +12,7 @@ Clone the repo. Open Live Browser from VS Code. Click the button, enjoy!
 
 - Find a fun API! Researching different APIs, its been fun discovering what people are keeping track of online
 
-## Comments
+## All That Documentation
 
 Any comment prefaced by an asterisk (*) are notes I have added and not part of the curriculum
 
@@ -29,6 +29,7 @@ Feel free to reach out if you spot something super incorrect. I want to learn an
 ## Resources
 
 Shoutout to the recorded videos, Solution File, and ChatGPT
+
 
 ## License Information
 
