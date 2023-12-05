@@ -14,7 +14,7 @@ Clone the repo. Open Live Browser from VS Code. Click the button, enjoy!
 
 ## All That Documentation
 
-Any comment prefaced by an asterisk (*) are notes I have added and not part of the curriculum
+Any comment prefaced by a tilde (~) are notes and documentation I have added. They were not offered as part of the curriculum
 
 It helps me in the moment and also when coming back later to write detailed comments.
 
@@ -27,6 +27,7 @@ Feel free to reach out if you spot something super incorrect. I want to learn an
 ## Resources
 
 Shoutout to the recorded videos, Solution File, and ChatGPT
+
 
 ## License Information
 
