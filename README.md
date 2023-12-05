@@ -28,7 +28,6 @@ Feel free to reach out if you spot something super incorrect. I want to learn an
 
 Shoutout to the recorded videos, Solution File, and ChatGPT
 
-
 ## License Information
 
 See MIT License
