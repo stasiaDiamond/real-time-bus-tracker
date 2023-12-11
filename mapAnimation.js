@@ -1,3 +1,9 @@
+// Your main file (e.g., index.js)
+require('./config'); // Load dotenv configuration
+
+
+
+
 // This array contains the coordinates for all bus stops between MIT and Harvard
 const busStops = [
   [-71.093729, 42.359244],
@@ -15,8 +21,8 @@ const busStops = [
 ];
 
 // TODO: add your own access token
-mapboxgl.accessToken =
-  'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
+mapboxgl.accessToken = process.env.MAPBOX_API_KEY;
+
 
 // TODO: create the map object using mapboxgl.map() function
 let map = new mapboxgl.Map({
